@@ -1,14 +1,15 @@
 <p align="left">
 <h1 align ="center">👋 Hello! I'm Sebastião Simão</h1>
 
-<img src="https://miro.medium.com/max/1400/1*GKSUn8nIBnFy07luMC5wlw.gif" min-width="500px" max-width="500px" height="400" width="450" align="right" alt="Computer Daniel Farias">
+<img src="https://miro.medium.com/max/1400/1*GKSUn8nIBnFy07luMC5wlw.gif" min-width="500px" max-width="500px" height="400" width="450" align="right" alt="Computer">
 <br />
 <h3> Front-end Developer & Systems Analysis and Development</h3>
 
 ### 🧑🏻 About me
 - ⏳  I'm 20 years old
 - 💙  My preferred language is Javascript
-- 🎮  my hobby is watch
+- 🎮  My hobby is watching movies, series and anime!
+- 📚  Reading lover!
 - 🌱  I’m currently learning *Angular and Typescript*
 
 ### 📊  2022 Goals:
