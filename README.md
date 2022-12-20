@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebasti%C3%A3o-sim%C3%A3o-643925235/"><img src="https://img.shields.io/badge/-sebastião-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:sebastiaosimaoliveira@gmail.com"><img src="https://img.shields.io/badge/-sebastiaosimaoliveira@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:oliveirasebastian489@gmail.com"><img src="https://img.shields.io/badge/-oliveirasebastian489@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/sebs722/"><img src="https://img.shields.io/badge/-@sebs722-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
    
 <h3><p align="center">Total profile visits:</p>
